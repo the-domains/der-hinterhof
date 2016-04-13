@@ -1,0 +1,28 @@
+name: Der Hinterhof
+favicon: null
+layout_spectrum: 0.9286753982305527
+typography_spectrum: 0.87707420415245
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6461486129555851
+  lightness: 0.02690303511917591
+  saturation: 0.2072201396804303
+  rhythmicContrast: 0.08223047573119402
+purpose: []
