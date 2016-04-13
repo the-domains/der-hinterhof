@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Der Hinterhof
-datePublished: '2016-04-13T15:34:45.981Z'
-dateModified: '2016-04-13T15:17:51.339Z'
+datePublished: '2016-04-13T15:34:57.010Z'
+dateModified: '2016-04-13T15:34:54.467Z'
 title: Hours
 author: []
 sourcePath: _posts/2016-04-13-der-hinterhof.md
@@ -23,3 +23,5 @@ _type: Article
 
 ---
 Der Hinterhof
+
+Daily 11am-11pm
